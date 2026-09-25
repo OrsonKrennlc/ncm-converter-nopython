@@ -4,3 +4,6 @@
 # Python
 __pycache__/
 *.pyc
+
+# 本地工作区数据
+.workbuddy/
